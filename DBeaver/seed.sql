@@ -1,4 +1,4 @@
-USE smart_home;
+USE smart_toilet;
 
 INSERT INTO buildings (name, address) VALUES 
 ('GGW', 'Am Silberberg 26, 8074 Raaba');
